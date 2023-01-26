@@ -1,8 +1,10 @@
-- 👋 Hi, I’m @Oisin-byte
+- 👋 Hi, I’m @Oisin-byte an 14 year old trying to code
 - 👀 I’m interested in ... Electronic Circuits / Python
 - 🌱 I’m currently learning ... Python
 - 💞️ I’m looking to collaborate on ... An Project
 - 📫 How to reach me ... oisin@digitalbulb.ie
+- ✅ Please checkout some of my  projects
+- 🌐 www.digitalbulb.ie
 
 <!---
 Oisin-byte/Oisin-byte is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
